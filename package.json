@@ -1,0 +1,19 @@
+{
+  "name": "mcmgrd_00",
+  "version": "1.0.0",
+  "description": "Primeira app em nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppinto-pplware/mcmgrd_00.git"
+  },
+  "author": "Pedro Pinto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ppinto-pplware/mcmgrd_00/issues"
+  },
+  "homepage": "https://github.com/ppinto-pplware/mcmgrd_00#readme"
+}
